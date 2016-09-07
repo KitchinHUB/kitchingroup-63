@@ -9,13 +9,14 @@
   issn =         {1097-461X},
   url =          {http://dx.doi.org/10.1002/qua.25115},
   doi =          {10.1002/qua.25115},
-  pages =        {n/a--n/a},
+  pages = 	 {979-987},
+  volume = 	 {116},
+  number = 	 {13},
   keywords =     {Kohn-Sham density functional theory, neural networks, reactive
                   force fields, potential energy surfaces, machine learning},
   year =         2016,
 }
 #+END_SRC
 
-#+BEGIN_HTML
-<div data-badge-type="medium-donut" class="altmetric-embed" data-badge-details="right" data-doi="10.1002/qua.25115" data-uuid="5920ba25-5f50-4f52-042c-1e3f2d24a0cd">
-#+END_HTML
+1. The manuscript: [[./manuscript.org]] and [[./manuscript.pdf]]
+2. Supporting information: [[./supporting-information.org]] and [[./supporting-information.pdf]]
