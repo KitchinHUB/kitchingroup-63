@@ -1,0 +1,21 @@
+#+TITLE: Neural Network and ReaxFF comparison for Au properties
+
+#+BEGIN_SRC bibtex
+@article {boes-2016-neural-reaxf,
+  author =       {Boes, Jacob R. and Groenenboom, Mitchell C. and Keith, John A.
+                  and Kitchin, John R.},
+  title =        {Neural network and ReaxFF comparison for Au properties},
+  journal =      {International Journal of Quantum Chemistry},
+  issn =         {1097-461X},
+  url =          {http://dx.doi.org/10.1002/qua.25115},
+  doi =          {10.1002/qua.25115},
+  pages =        {n/a--n/a},
+  keywords =     {Kohn-Sham density functional theory, neural networks, reactive
+                  force fields, potential energy surfaces, machine learning},
+  year =         2016,
+}
+#+END_SRC
+
+#+BEGIN_HTML
+<div data-badge-type="medium-donut" class="altmetric-embed" data-badge-details="right" data-doi="10.1002/qua.25115" data-uuid="5920ba25-5f50-4f52-042c-1e3f2d24a0cd">
+#+END_HTML
